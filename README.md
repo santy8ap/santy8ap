@@ -11,7 +11,9 @@
   <source align="right" height="150" media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/2wPCzBrKJP8AAAAC/tenor.gif">
 -
   <img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
+-
 </picture>
+
 
 💻 Developer passionate about **web technologies**, **Python**, and **JavaScript**.  
 🚀 Always learning and building projects that solve real problems.  
