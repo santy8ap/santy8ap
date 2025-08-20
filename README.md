@@ -4,8 +4,6 @@
 
 <h1 align="left">Hi my name is santiago! </h1>
 
-Front-end developer with back-end aspirations
-
 <picture align="right" height="150">
   <source align="right" height="150" media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/50/55/45/505545dd2f219e82931d92a77c7ba303.gif">
   <source align="right" height="150" media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/2wPCzBrKJP8AAAAC/tenor.gif">
