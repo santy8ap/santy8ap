@@ -3,16 +3,17 @@
 </div>
 
 # 👋 Hi, I'm Santiago!
-
+---
 <picture align="right" height="150">
 -
   <source align="right" height="150" media="(prefers-color-scheme: dark)" srcset="https://c.tenor.com/x9wBsDxbKwAAAAAC/tenor.gif">
 -
-  <source align="right" height="150" media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/2wPCzBrKJP8AAAAC/tenor.gif">
+  <source align="right" height="150" media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/x9wBsDxbKwAAAAAC/tenor.gif">
 -
   <img align="right" height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
 -
 </picture>
+
 
 
 💻 Developer passionate about **web technologies**, **Python**, and **JavaScript**.  
