@@ -64,7 +64,7 @@ Desarrollador enfocado en **web**, **backend** y **ciberseguridad**. Me especial
 
 ## 🎛️ Cómo trabajo
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="110" alt="workflow gif" style="border-radius:6px; box-shadow: 0 6px 18px rgba(0,255,135,0.06);">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M290bzVhbHN3amZsbzk3b2M4M3BndHBld2Y0eGpmNDNuZjRhM2NvaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" height="110" alt="workflow gif" style="border-radius:6px; box-shadow: 0 6px 18px rgba(0,255,135,0.06);">
 </p>
 
 - ✅ **Seguridad por diseño**: desde el primer commit pienso en seguridad, validaciones y límites.  
@@ -74,13 +74,12 @@ Desarrollador enfocado en **web**, **backend** y **ciberseguridad**. Me especial
 
 ---
 
-## 🧪 CTFs & Certificaciones
+## 🧪 CTFs
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" height="90" alt="ctf gif" style="border-radius:6px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm10N2MxczNkeXlvamo5cTR2eHd0enc0bGR3anI1cTE3NmFudTBqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11KzOet1ElBDz2/giphy.gif" height="90" alt="ctf gif" style="border-radius:6px;">
 </div>
 
 Participando en retos CTF y plataformas como **TryHackMe** y **HackTheBox**.  
-Certificados en proceso: **eJPT**, **OSCP (próximamente)**. *(Añade aquí tus certificados cuando los obtengas)*
 
 ---
 
@@ -107,7 +106,7 @@ Certificados en proceso: **eJPT**, **OSCP (próximamente)**. *(Añade aquí tus 
 
 <div align="center">
   <!-- Terminal / matrix GIF ajustado -->
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" height="110" alt="matrix gif" style="filter:contrast(1.05) saturate(1.1); border-radius:6px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3cwNDV0Y3h1b2kxNmEzdTdoNHpjNmh2OHU0NTM5bnB4Njg5NjhwdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif" height="110" alt="matrix gif" style="filter:contrast(1.05) saturate(1.1); border-radius:6px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
   <br><br>
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001218,100:002b36&height=100&section=footer&fontColor=00FF87" alt="footer" />
