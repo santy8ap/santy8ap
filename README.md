@@ -72,7 +72,4 @@
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </div>
-```
 
-
-¿Quieres que te lo adapte para que cambie automáticamente de colores (modo oscuro / modo claro) al estilo Matrix verde y neón cuando alguien vea tu perfil en GitHub? Puedo hacerlo manteniendo los mismos gifs y layout.
