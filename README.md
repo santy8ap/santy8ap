@@ -1,6 +1,5 @@
-
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Developer%20Santiago&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Santiago%20Ochoa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=santy8ap.santy8ap&right_color=hotpink" />
 
 # 👋 Hola — soy Santiago
@@ -11,27 +10,47 @@
   <img height="150" src="https://i.pinimg.com/originals/94/ea/c8/94eac835763ea2c2b63c069cedbed22f.gif">
 </picture>
 
-💻 Desarrollador apasionado por **tecnologías web**, **Python** y **JavaScript**.  
-🚀 Siempre aprendiendo y construyendo proyectos que resuelven problemas reales.  
-🧠 Interesado en **blockchain**, **backend** y **open source**.  
-🔐 Enfocado también en **ciberseguridad** con **Kali Linux**, explorando herramientas como **Nmap**, **Wireshark** y **Metasploit**.
+💻 **Frontend Developer** — React, TypeScript, Next.js y Tailwind CSS.  
+🐧 **Linux SysAdmin** — Arch Linux, servidores, redes y automatización.  
+🚀 Construyendo interfaces y sistemas que funcionan de verdad.  
+🔧 Homelab con Hyprland + Caelestia — porque el entorno importa.
 
 ---
 
 ## 🔧 Tech Stack
+
+### Frontend
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+</div>
+
+### Backend & DevOps
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=268BEE)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+### Linux & Tools
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Hyprland](https://img.shields.io/badge/Hyprland-0d0d0d?style=for-the-badge&logo=wayland&logoColor=FFBC42)
+![Neovim](https://img.shields.io/badge/Neovim-0d0d0d?style=for-the-badge&logo=neovim&logoColor=57A143)
 
 </div>
 
@@ -50,26 +69,24 @@
 
 ## 📌 Proyectos Destacados
 
-- **Proyecto Integrador - Ruta Básica**  
-  💱 Plataforma web para ver el precio de Bitcoin en tiempo real, registrar usuarios y simular transacciones.
+- **[Bitcoin Price Tracker](https://github.com/santy8ap/ProyectoIntegrador_RutaBasica)**  
+  💱 Plataforma web para consultar el precio de Bitcoin en tiempo real, con registro de usuarios y simulación de transacciones. Stack: HTML, CSS, JavaScript, CoinGecko API.
 
-- **Primer Repositorio**  
-  🧩 Pruebas iniciales con HTML y fundamentos básicos.
+- **[Arch Linux Dotfiles](https://github.com/santy8ap/my-arch-linux-dotfile-caelestia)**  
+  🎨 Configuración completa de Hyprland + Caelestia con scripts de instalación. Setup minimalista para Arch Linux con fish shell y fastfetch.
 
 ---
 
 ## 📫 Conecta Conmigo
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/santiago-ochoa-b93b98340)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:santy8aposso@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </div>
-
